@@ -1,0 +1,11 @@
+metric~value
+best_order~(0, 2, 0)
+best_seasonal_order~(2, 0, 0, 12)
+best_aic~-1065.997265899724
+sample_size~99
+ljung_box_stat~32.33653453589718
+ljung_box_pvalue~0.028632804576371934
+jarque_bera_stat~8864.842867744992
+jarque_bera_pvalue~0.0
+resid_skew~3.651010533395018
+resid_kurtosis~48.779179817502005

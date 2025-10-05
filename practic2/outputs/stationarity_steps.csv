@@ -1,0 +1,7 @@
+metric~value
+log_applied~True
+d~1
+D~0
+seasonal_periods~12
+adf_p_raw~0.9770786655106863
+adf_p_after~4.960054012897482e-18
